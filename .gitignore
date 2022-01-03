@@ -1,9 +1,11 @@
 1_LectureSlides/
 Books/
 Books_Reading_References.docx
+past-papers/
 .vscode/
 .DS_Store
 *.pdf
 *.docx
 *.png
 *.jpg
+*.zip
